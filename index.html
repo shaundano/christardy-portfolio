@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chris Tardy</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <nav>
+    <span class="brand">Chris Tardy</span>
+    <div class="links">
+      <a href="#about">About</a>
+      <a href="#research">Research</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+  <div class="hero-content">
+    <h1>Chris Tardy</h1>
+    <p class="tagline">PhD-track MSc student, University of British Columbia</p>
+    <p class="subtagline">World action models &middot; positional embeddings &middot; latent diffusion</p>
+  </div>
+</header>
+
+<main>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>
+      I'm a PhD-track MSc student at UBC. My background spans networks, backend
+      engineering, and applied AI &mdash; most recently as a GenAI software engineering
+      intern at Planview.
+    </p>
+    <p>
+      I contributed to <a href="https://plaicraft.ai" target="_blank" rel="noopener">PLAICraft</a>,
+      a project collecting multimodal AI training data from Minecraft, and received an
+      acknowledgement in the accompanying paper. My undergraduate capstone, Project Elephant,
+      generalized that idea: any desktop app accessible via a cloud machine can feed a
+      scalable framework for AI training data capture.
+    </p>
+  </section>
+
+  <section id="research">
+    <h2>Research</h2>
+    <p>
+      I currently work on <strong>world action models (WAMs)</strong>, focusing on
+      positional embeddings (RoPE variations) and latent diffusion optimizations. My
+      immediate goal is improving robustness of action-conditioned video frame tracking,
+      including ballistic mouse movement.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-grid">
+
+      <a class="project-card" href="https://github.com/shaundano/ocap-elephant" target="_blank" rel="noopener">
+        <h3>ocap-elephant</h3>
+        <p>Fork of the open-world-agents OCAP multichannel desktop recorder, extended with
+        microphone recording, graceful automated shutdown, and non-GPU support.</p>
+        <span class="tag">Python</span>
+      </a>
+
+      <a class="project-card" href="https://github.com/shaundano/BCSHackathon" target="_blank" rel="noopener">
+        <h3>BCSHackathon &mdash; Gitopia</h3>
+        <p>A 2D adventure game that teaches Git basics &mdash; commits, branches, merges &mdash;
+        as you explore, fix your ship, and chart a path back to Earth.</p>
+        <span class="tag">JavaScript</span>
+      </a>
+
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <div class="contact-links">
+      <a href="https://github.com/shaundano" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.linkedin.com/in/christopher-tardy/" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; <span id="year"></span> Chris Tardy</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
