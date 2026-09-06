@@ -63,9 +63,21 @@ p {
   margin: 0;
 }
 
-.entry-image {
-  display: block;
-  max-width: 100%;
-  border-radius: 6px;
-  margin-bottom: 0.6rem;
+.entry-with-image {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.entry-with-image .entry-image {
+  flex-shrink: 0;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: 0;
+}
+
+.entry-with-image p {
+  flex: 1;
 }
