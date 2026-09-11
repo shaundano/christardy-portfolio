@@ -4,22 +4,20 @@
 
   {{ $blog := where .Site.RegularPages "Section" "blog" }}
   {{ with $blog }}
-    <h2>Research</h2>
+    <h2>Research Blog</h2>
     {{ range first 3 (.ByDate.Reverse) }}
       <div class="post-entry">
         <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
         <a class="post-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
       </div>
     {{ end }}
-    <p><a href="{{ "/blog/" | relURL }}">All posts →</a></p>
   {{ end }}
 
   {{ $projects := where .Site.RegularPages "Section" "projects" }}
   {{ with $projects }}
     <h2>Projects</h2>
     {{ range .ByWeight }}
-      <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+      {{ partial "project-card.html" . }}
     {{ end }}
-    <p><a href="{{ "/projects/" | relURL }}">All projects →</a></p>
   {{ end }}
 {{ end }}
