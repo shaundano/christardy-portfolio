@@ -1,0 +1,6 @@
+baseURL = 'https://christardy.com/'
+locale = 'en-us'
+title = 'Chris Tardy'
+
+[permalinks]
+  projects = '/projects/:slug/'

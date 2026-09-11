@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <div class="entry entry-with-image">
+    {{ with .Params.image }}<img class="entry-image" src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
+    <div class="entry-body">
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}
