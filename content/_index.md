@@ -10,4 +10,6 @@ I previously earned a Bachelor of Commerce from Concordia University, then spent
 
 ## Publications
 
-[PLAICraft: A Learning Environment for AI Agents through Minecraft](https://plaicraft.ai) (Acknowledgement).
+**PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI** (Acknowledgement)
+
+[site](https://plaicraft.ai) [link](https://arxiv.org/abs/2505.12707)
