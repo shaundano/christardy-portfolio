@@ -47,9 +47,10 @@ body {
 .project-hero-image {
   display: block;
   width: 100%;
+  max-width: 420px;
   height: auto;
+  margin: 0 auto 1.5rem;
   border-radius: 16px;
-  margin-bottom: 1.5rem;
 }
 
 .project-dates {
