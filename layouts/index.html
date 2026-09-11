@@ -2,4 +2,16 @@
   <img class="headshot" src="{{ "headshot.jpg" | relURL }}" alt="Chris Tardy">
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ $blog := where .Site.RegularPages "Section" "blog" }}
+  {{ with $blog }}
+    <h2>Blog</h2>
+    {{ range first 3 (.ByDate.Reverse) }}
+      <div class="post-entry">
+        <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+        <a class="post-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+    {{ end }}
+    <p><a href="{{ "/blog/" | relURL }}">All posts →</a></p>
+  {{ end }}
 {{ end }}
