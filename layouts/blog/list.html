@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1>Blog</h1>
+  <h1>{{ .Title }}</h1>
   {{ range .Pages.ByDate.Reverse }}
     <div class="post-entry">
       <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>

@@ -33,6 +33,7 @@ body {
 .sitenav .brand {
   color: var(--fg);
   font-weight: 600;
+  font-size: 1.4rem;
 }
 
 .sitenav .brand:hover {
