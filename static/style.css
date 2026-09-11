@@ -113,6 +113,48 @@ p {
   margin-bottom: 0;
 }
 
+.entry-body h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.project-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  color: var(--fg);
+  text-decoration: none;
+  padding: 0.75rem;
+  margin: 0 -0.75rem 0.5rem;
+  border-radius: 12px;
+  transition: background 0.15s ease;
+}
+
+.project-card:hover {
+  background: #f0f2ec;
+  text-decoration: none;
+}
+
+.project-card .entry-image {
+  flex-shrink: 0;
+  width: 108px;
+  height: 108px;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+.project-card .entry-body p,
+.project-card .entry-body h3 {
+  color: var(--fg);
+}
+
+.project-card .award {
+  color: #6b7166;
+  font-size: 0.9rem;
+  margin-top: 0.35rem;
+}
+
 /* Blog list */
 .post-entry {
   margin-bottom: 1.5rem;

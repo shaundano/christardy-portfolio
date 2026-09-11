@@ -8,7 +8,7 @@ I previously earned a Bachelor of Commerce from Concordia University, then spent
 
 **GitHub:** [github.com/shaundano](https://github.com/shaundano)
 
-## Research
+## Publications
 
 I work on **world action models (WAMs)**, focusing on positional embeddings (RoPE variations) and latent diffusion optimizations, aiming to improve robustness of action-conditioned video frame tracking.
 
