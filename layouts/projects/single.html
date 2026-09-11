@@ -1,11 +1,9 @@
 {{ define "main" }}
-  <div class="entry entry-with-image">
-    {{ with .Params.image }}<img class="entry-image" src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
-    <div class="entry-body">
-      <h3>{{ .Title }}</h3>
-      {{ .Content }}
-      {{ with .Params.award }}<p>{{ . }}</p>{{ end }}
-      {{ with .Params.repo }}<p><a href="{{ . }}" target="_blank" rel="noopener">Repository</a>.</p>{{ end }}
-    </div>
-  </div>
+  {{ with .Params.image }}<img class="project-hero-image" src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.dates }}<p class="project-dates">{{ . }}</p>{{ end }}
+  {{ .Content }}
+  {{ with .Params.award }}<p>{{ . }}</p>{{ end }}
+  {{ with .Params.video }}<p><a href="{{ . }}" target="_blank" rel="noopener">Watch the demo</a>.</p>{{ end }}
+  {{ with .Params.repo }}<p><a href="{{ . }}" target="_blank" rel="noopener">Repository</a>.</p>{{ end }}
 {{ end }}
