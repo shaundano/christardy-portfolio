@@ -20,4 +20,9 @@
       {{ partial "project-card.html" . }}
     {{ end }}
   {{ end }}
+
+  {{ with site.GetPage "/talks" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+  {{ end }}
 {{ end }}

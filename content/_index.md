@@ -11,8 +11,3 @@ I previously earned a Bachelor of Commerce from Concordia University, then spent
 **PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**  
 Yingchen He, Christian D. Weilbach, Martyna E. Wojciechowska, Yuxuan Zhang, Frank Wood (Acknowledgement)  
 \[[site](https://plaicraft.ai)\] \[[link](https://arxiv.org/abs/2505.12707)\]
-
-## Talks
-
-**Training on test data isn't cheating**  
-\[[slides](https://docs.google.com/presentation/d/1jKEHpKrRKVyXp4NpHmzl2tx_nqn5iN18dvS259FXnSo/edit?slide=id.p#slide=id.p)\]
