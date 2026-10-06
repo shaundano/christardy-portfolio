@@ -25,4 +25,9 @@
     <h2>{{ .Title }}</h2>
     {{ .Content }}
   {{ end }}
+
+  {{ with site.GetPage "/awards" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+  {{ end }}
 {{ end }}

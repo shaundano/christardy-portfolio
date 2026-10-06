@@ -11,10 +11,3 @@ I previously earned a Bachelor of Commerce from Concordia University, then spent
 **PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**  
 Yingchen He, Christian D. Weilbach, Martyna E. Wojciechowska, Yuxuan Zhang, Frank Wood (Acknowledgement)  
 \[[site](https://plaicraft.ai)\] \[[link](https://arxiv.org/abs/2505.12707)\]
-
-## Awards
-
-Science Undergraduate Research Experience (SURE) Award, UBC, 2026  
-AML-TN Undergraduate Research Award (NSERC CREATE), 2026  
-Mitacs Accelerate Fellowship, Layer 6 (TD Bank), 2026  
-Patrick Prefontaine Scholarship in International Business, 2022
