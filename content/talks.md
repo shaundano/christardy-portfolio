@@ -11,6 +11,6 @@ Paper: [Test-Time Training with Self-Supervision for Generalization under Distri
 \[[slides](https://docs.google.com/presentation/d/1jKEHpKrRKVyXp4NpHmzl2tx_nqn5iN18dvS259FXnSo/edit?slide=id.p#slide=id.p)\]
 
 **ETA, Casually Explained**  
-CPSC 532A: Test Time Adaptation + Adaptive Computation, UBC (Evan Shelhamer)  
+CPSC 532X: Test Time Adaptation + Adaptive Computation, UBC (Evan Shelhamer)  
 Paper: [Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610), Shuaicheng Niu et al., 2022  
 \[[slides](https://docs.google.com/presentation/d/1GBS92f6hle1iTAmHX8Ud8JSL14ucd-ExrqaXOJ7OF_o/edit)\]
