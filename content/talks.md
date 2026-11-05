@@ -5,6 +5,11 @@ build:
   list: never
 ---
 
+**Just In Time, Casually Explained**  
+CPSC 532A: World Models & Artificial Intelligence, UBC, November 2026  
+Paper: [“Just in Time” World Modeling Supports Human Planning and Reasoning](https://arxiv.org/abs/2601.14514), Tony Chen et al., 2026  
+\[[slides](https://docs.google.com/presentation/d/1IJnxmdE8Bhhg58ZYsMJfHAdpM3E2vuIPMGbPtYQn0Nc/edit)\]
+
 **ETA, Casually Explained**  
 CPSC 532X: Test Time Adaptation + Adaptive Computation, UBC (Evan Shelhamer), October 2026  
 Paper: [Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610), Shuaicheng Niu et al., 2022  
