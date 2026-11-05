@@ -6,7 +6,7 @@ build:
 ---
 
 **Just In Time, Casually Explained**  
-CPSC 532A: World Models & Artificial Intelligence, UBC, November 2026  
+CPSC 532A: World Models & Artificial Intelligence, UBC (Kelsey Allen), November 2026  
 Paper: [“Just in Time” World Modeling Supports Human Planning and Reasoning](https://arxiv.org/abs/2601.14514), Tony Chen et al., 2026  
 \[[slides](https://docs.google.com/presentation/d/1IJnxmdE8Bhhg58ZYsMJfHAdpM3E2vuIPMGbPtYQn0Nc/edit)\]
 
