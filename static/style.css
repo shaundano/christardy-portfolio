@@ -1,7 +1,7 @@
 :root {
   --bg: rgb(252, 255, 250);
   --fg: #000;
-  --accent: #3d612c;
+  --accent: #946147;
 }
 
 * { box-sizing: border-box; }
@@ -10,7 +10,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--fg);
-  font-family: "Poppins", sans-serif;
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   line-height: 1.7;
 }
