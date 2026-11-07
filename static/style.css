@@ -64,6 +64,7 @@ body {
   width: 140px;
   height: 140px;
   object-fit: cover;
+  object-position: 50% 35%;
   border-radius: 16px;
   margin: 0 0 1.5rem;
 }
