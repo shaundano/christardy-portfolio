@@ -11,7 +11,7 @@ I previously earned a Bachelor of Commerce from Concordia University, then spent
 **WAM-Mini: A Fully Configurable Causal Environment for Training Local World Action Models**  
 Christopher Tardy, Frank Wood  
 2nd UBC CSSRC, 2026  
-\[[pdf](/wam-mini.pdf)\]
+\[[pdf](/wam-mini.pdf)\] \[[slides](https://docs.google.com/presentation/d/17exZKfN8gy5bN80feMbpNBbk_RSZ1WsHGUaVYSMB6Sk/edit?slide=id.h5ebdff2eb69419fb_3_2#slide=id.h5ebdff2eb69419fb_3_2)\]
 
 **PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**  
 Yingchen He, Christian D. Weilbach, Martyna E. Wojciechowska, Yuxuan Zhang, Frank Wood (Acknowledgement)  
