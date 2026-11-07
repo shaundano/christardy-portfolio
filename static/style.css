@@ -61,10 +61,8 @@ body {
 
 .headshot {
   display: block;
-  width: 140px;
-  height: 140px;
-  object-fit: cover;
-  object-position: 50% 35%;
+  width: 200px;
+  height: auto;
   border-radius: 16px;
   margin: 0 0 1.5rem;
 }
