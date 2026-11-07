@@ -2,7 +2,11 @@
 title: "Chris Tardy"
 ---
 
-I am a PhD-track MSc student at the [University of British Columbia](https://www.ubc.ca/) (UBC). My background spans networks, backend engineering, and applied AI, most recently as a GenAI software engineering intern at Planview. I work on **world action models (WAMs)**, focusing on positional embeddings (RoPE variations) and gaussian diffusion optimizations, aiming to improve the robustness of joint video and action generation.
+I am a PhD-track MSc student in Computer Science at the [University of British Columbia](https://www.ubc.ca/) (UBC). I am supervised by Dr. Frank Wood at [PLAI](https://plai.cs.ubc.ca/people/current-plai-group-members/).
+
+I work on World Action Models (WAMs), which are primarily DiT-based video and action policies. I am working to improve the robustness of joint generation policies, particularly with compute-efficient methods (see [WAM-Mini](/wam-mini.pdf)).
+
+I also have ongoing projects in test time adaptation, real-time anomaly detection and browser-use agents, the latter of which is funded through MITACS by Layer6 (TD Bank).
 
 I previously earned a Bachelor of Commerce from Concordia University, then spent two years in marketing at [Sid Lee](https://www.youtube.com/watch?v=iQrTm6ShxN0&list=RDiQrTm6ShxN0&start_radio=1).
 
