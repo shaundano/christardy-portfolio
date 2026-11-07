@@ -6,7 +6,7 @@ I am a PhD-track MSc student in Computer Science at the [University of British C
 
 I work on World Action Models (WAMs), which are primarily DiT-based video and action policies. I am working to improve the robustness of joint generation policies, particularly with compute-efficient methods (see [WAM-Mini](/wam-mini.pdf)).
 
-I also have ongoing projects in test time adaptation, real-time anomaly detection and browser-use agents, the latter of which is funded through MITACS by Layer6 (TD Bank).
+I also have ongoing projects in test time adaptation, real-time anomaly detection and browser-use agents, the latter of which is funded through MITACS by [Layer6](https://layer6.ai) (TD Bank).
 
 I previously earned a Bachelor of Commerce from Concordia University, then spent two years in marketing at [Sid Lee](https://www.youtube.com/watch?v=iQrTm6ShxN0&list=RDiQrTm6ShxN0&start_radio=1).
 
