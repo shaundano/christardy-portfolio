@@ -2,9 +2,7 @@
 title: "Chris Tardy"
 ---
 
-I am a PhD-track MSc student in Computer Science at the [University of British Columbia](https://www.ubc.ca/) (UBC). I am supervised by Dr. Frank Wood at [PLAI](https://plai.cs.ubc.ca/people/current-plai-group-members/).
-
-I work on World Action Models (WAMs), which are primarily DiT-based video and action policies. I am working to improve the robustness of joint generation policies, particularly with compute-efficient methods (see [WAM-Mini](/wam-mini.pdf)).
+I am a PhD-track MSc student in Computer Science at the [University of British Columbia](https://www.ubc.ca/) (UBC). I am supervised by Dr. Frank Wood at [PLAI](https://plai.cs.ubc.ca/people/current-plai-group-members/). I work on World Action Models (WAMs), which are primarily DiT-based video and action policies. I am working to improve the robustness of joint generation policies, particularly with compute-efficient methods (see [WAM-Mini](/wam-mini.pdf)).
 
 I also have ongoing projects in test time adaptation, real-time anomaly detection and browser-use agents, the latter of which is funded through MITACS by [Layer6](https://layer6.ai) (TD Bank).
 
